@@ -6,7 +6,11 @@ This end-to-end solution significantly enhances customer experience through prec
 
 - Customer support 
 - Intelligent dialogue management 
-- Real-time assistance This end-to-end solution significantly enhances customer experience through precise and responsive support.
+- Real-time assistance 
 
-## Tech Stack: Python, Dialogflow, Fastapi, MySQL
+## Tech Stack
+- Python
+- Dialogflow
+- Fastapi
+- MySQL
                                                                    
